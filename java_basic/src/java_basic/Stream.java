@@ -18,8 +18,8 @@ public class Stream {
 		System.out.flush();
 		System.out.println();
 // InputStream
-		Scanner sc = new Scanner(System.in);
-        
+		Scanner sc = new Scanner(System.in);	//스캐너
+		
 		System.out.print("두 명의 이름을 입력해 주세요:");
 		String text = sc.next();	//공백을 기준으로 값을 나눠 가져옴
 //		String text2 = sc.nextLine();	//공백을 상관없이 전부 가져옴
