@@ -1,4 +1,4 @@
-package java_basic;
+package java_basic_code;
 
 public class For_ex2 {
 	public static void main(String[] args) {
@@ -71,6 +71,5 @@ public class For_ex2 {
 			}
 			System.out.println();
 		}
-		
 	}
 }

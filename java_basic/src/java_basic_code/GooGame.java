@@ -1,6 +1,8 @@
-package java_basic;
+package java_basic_code;
 
 import java.util.Scanner;
+
+import java_basic.Random;
 
 public class GooGame {
 	public static void main(String[] args) {
