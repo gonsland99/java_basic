@@ -15,7 +15,9 @@ public class Memo {
 //		System.out.println(Integer.parseInt("20"));
 //		System.out.println(a + b);
 /*
-	최대 속도(max speed)
+// 표기법
+	변수
+	ㄴ숫자,공백,특수문자x
 	1.파스칼 표기법: 첫글자를 대문자, 2개이상 단어 결합시 각단어 첫글자 대문자 표기하는 기법	(클래스작성법)
 	ex)MaxSpeed, Hello, ColorOfRing
 	2.카멜 표기법: 첫 글자는 소문자, 2개이상 단어 결합시 2번째 단어부터 첫글자 대문자 표기하는 기법		(변수,매소드)
@@ -27,6 +29,25 @@ public class Memo {
 
 	세미콜론(;): 사람이 줄바꿈을 한줄 끝으로 인식하듯 컴퓨터가 한줄의 끝으로 인식
 	ㄴ컴퓨터는 엔터와 공백, 여러개의 공백도 하나의 공백으로 취급 
+//타입	
+	byte	1
+	short	2
+	int	4byte = 32bit
+	long	8
+	float 	4
+	double	8
+	boolean	가변
+	char	2
+//소수점	
+	고정소수점:부호비트,지수부15bit,가수부15bit
+	부동소수점:부호비트,지수부8bit,가수부23bit
+	 ㄴ지수부에 e를 써서 표현
+//코드 테이블	
+	ASCII: keycode값들을 표현한 미국식 코드표
+	UNICODE: 전세계어들을 표현한 테이블
+//연산자	
+	단항연산자
+	양수,음수,증가,감소,부정
 */
 	}
 }
