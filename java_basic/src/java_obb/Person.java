@@ -7,7 +7,7 @@ public class Person {
 		String name;	//인스턴스변수
 		int age;
 		
-		Per(){		//메서드
+		Per(){		//생성자: 메서드와 달리 return값을 가지지 않음
 			name="Tom";
 			age=10;
 		}
