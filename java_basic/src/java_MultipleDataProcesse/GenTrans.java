@@ -1,6 +1,4 @@
-package java_exception;
-
-import java_MultipleDataProcesse.Generic;
+package java_MultipleDataProcesse;
 
 public class GenTrans{
 	public static void main(String[] args) {
