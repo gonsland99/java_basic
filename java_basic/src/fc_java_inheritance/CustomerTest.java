@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class CustomerTest {
 	public static void main(String[] args) {
 		//Customer 생성
-		Customer customer1 = new Customer(101, "이순신");
+		Customer customer1 = new Customer(101, "이순신");	//업캐스팅: 하위클래스가 상위클래스를 캐스팅
 		Customer customer2 = new GoldCustomer(102, "김유신");
 		Customer customer3 = new VIPCustomer(103, "손흥민");
 		Customer customer4 = new VIPCustomer(104, "아이유");
