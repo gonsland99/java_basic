@@ -1,4 +1,4 @@
-package fc_static;
+package fc_java_static;
 
 public class Car {
 	//자동차 번호 생성

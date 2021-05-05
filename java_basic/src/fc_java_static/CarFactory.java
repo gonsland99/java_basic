@@ -1,4 +1,4 @@
-package fc_static;
+package fc_java_static;
 
 public class CarFactory {
 	//싱글톤패턴: 외부의 인스턴스 단일화
