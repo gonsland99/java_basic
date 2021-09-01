@@ -1,4 +1,4 @@
-package fc_java_basic;
+package el_basic;
 
 public class ForMulti {
 	public static void main(String[] args) {
